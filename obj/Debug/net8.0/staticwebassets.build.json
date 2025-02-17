@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yQG75dfYjjEeNaYaDHk77AkJ2PjAurWNjvqHYygn4ic=",
+  "Source": "deliflow_backend",
+  "BasePath": "_content/deliflow_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
